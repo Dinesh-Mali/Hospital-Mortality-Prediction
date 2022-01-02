@@ -13,3 +13,4 @@ Main aim of this project is to predict the mortality rate , whether a person wil
 3) Model Building using ML - Using ML/Dl Algorithms.
 
 4) Model Building using Auto ML.
+ 
