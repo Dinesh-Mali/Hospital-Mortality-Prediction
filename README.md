@@ -14,3 +14,4 @@ Main aim of this project is to predict the mortality rate , whether a person wil
 
 4) Model Building using Auto ML.
  
+## Note - I am working on to add the Complete end-to-end description for this project. Please stay tuned!!
